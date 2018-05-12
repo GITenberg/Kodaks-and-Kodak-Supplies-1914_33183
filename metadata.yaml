@@ -1,0 +1,28 @@
+_repo: Kodaks-and-Kodak-Supplies-1914_33183
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33183-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Canadian Kodak Company
+    gutenberg_agent_id: '36172'
+    url: http://www.gutenberg.org/2009/agents/36172
+description: ''
+gutenberg_bookshelf:
+- Photography
+- Technology
+gutenberg_issued: '2010-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33183'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Photography -- Equipment and supplies -- Catalogs'
+- !lcsh 'Cameras -- Catalogs'
+- !lcc 'TR'
+title: Kodaks and Kodak Supplies, 1914
+url: http://www.gutenberg.org/ebooks/33183
